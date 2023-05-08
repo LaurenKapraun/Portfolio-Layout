@@ -1,0 +1,25 @@
+{
+    "projects": [
+      {
+        "title": "Project 1",
+        "category": "cagegory1",
+        "imgFull": "img/project1",
+        "imgPrev": "img/project1-prev",
+        "link": "https://www.google.com/"
+      },
+      {
+        "title": "Project 2",
+        "category": "cagegory1",
+        "imgFull": "img/project2",
+        "imgPrev": "img/project2-prev",
+        "link": ""
+      },
+       {
+         "title": "Project 3",
+         "category": "cagegory2",
+         "imgFull": "img/project3",
+         "imgPrev": "img/project3-prev",
+         "link": ""
+       }
+    ]
+}
